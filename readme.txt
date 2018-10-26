@@ -1,2 +1,2 @@
-Git is a distributed version control system. 
-Git is free software.
+1.我能不能写中文啊
+2.应该可以写中文啊
