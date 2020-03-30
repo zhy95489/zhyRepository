@@ -3,7 +3,7 @@ const app = new Vue({
   data: {
     //  总数据
     todoList: ["吃饭饭", "睡觉觉", "写代码"],
-    //  输入的内容
+    //  输入的内容 
     inputValue: "",
   },
   // 方法
